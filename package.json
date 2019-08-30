@@ -1,0 +1,26 @@
+{
+  "name": "profilepopup",
+  "version": "0.0.1913",
+  "description": "https://blog.pshrmn.com/entry/simple-react-router-v4-tutorial/",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "@material-ui/core": "4.3.3",
+    "@material-ui/icons": "4.2.1",
+    "babel-plugin-macros": "2.6.1",
+    "react": "16.9.0",
+    "react-dom": "16.9.0",
+    "react-dropzone": "10.1.7",
+    "react-router-dom": "5.0.1",
+    "styled-components": "4.3.2"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
